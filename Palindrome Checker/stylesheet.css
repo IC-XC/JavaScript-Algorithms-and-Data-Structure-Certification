@@ -1,0 +1,28 @@
+
+
+body {
+ background: linear-gradient(to right, lightblue, rgb(153, 139, 141));
+  
+}
+
+h1 {
+  color:rgba(20, 1, 1, 0.884);
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: red;
+}
+
+#notification {
+  font-size: 30px;
+  color:rgba(221, 6, 6, 0.884);
+}
+
+#checkPalindrome, #inputPalindrome {
+  font-size: 20px;
+}
