@@ -1,4 +1,4 @@
-# 📖 JavaScript-Algorithms-and-Data-Structure-freeCodeCamp
+# 📖 Legacy JavaScript-Algorithms-and-Data-Structure-freeCodeCamp
 
 # 👣 Projects
 
